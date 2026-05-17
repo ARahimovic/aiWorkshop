@@ -1,0 +1,12 @@
+[
+    {
+        "website": "gmail",
+        "username": "rahimovic",
+        "encrypted_password": "{G6`sQISVl!VaaIx"
+    },
+    {
+        "website": "github",
+        "username": "wahid",
+        "encrypted_password": "Mqxyte123#"
+    }
+]
